@@ -1,0 +1,196 @@
+[[PlutoBook]]
+arch = "aarch64"
+git-tree-sha1 = "59f830fc1bc25a125bb9f83fdeaa369123891a10"
+os = "macos"
+
+    [[PlutoBook.download]]
+    sha256 = "01495d86b248d6a247b2a9ff203a62dfe74ff570bb980ba7935ecc01bfb93b3a"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.aarch64-apple-darwin.tar.gz"
+[[PlutoBook]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "41a3bec11409165ab8e920a7575998d79d9c49fd"
+libc = "glibc"
+os = "linux"
+
+    [[PlutoBook.download]]
+    sha256 = "67b2d4c8087cf3caeacd53811e1e8d6f67a50c58a4e5c639afc90c69a50578e6"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[PlutoBook]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0866cb1f7975bcc5e07d0baa4f00cd7aa9a3946c"
+libc = "glibc"
+os = "linux"
+
+    [[PlutoBook.download]]
+    sha256 = "37204e29495db34919a3f70d4232703caaae4ece2f1f76f8b5d386647373019e"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[PlutoBook]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1e238db7da7441ce9d1eab2805b814cf31785715"
+libc = "glibc"
+os = "linux"
+
+    [[PlutoBook.download]]
+    sha256 = "05db24ffbed627382e3fb5f2e55938099c660013d53466bfe2790ece7525845d"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[PlutoBook]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a80f9f463eed8e372a5a8386fe90f9b6cc1a5fc8"
+libc = "glibc"
+os = "linux"
+
+    [[PlutoBook.download]]
+    sha256 = "5decbe153af4ea46e253165a46e72bbb42307c4880c00e2c8c317627ab6a1c0f"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[PlutoBook]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "82e05b15b1522029855a4738f64c969f5bf2e042"
+libc = "glibc"
+os = "linux"
+
+    [[PlutoBook.download]]
+    sha256 = "7fe2bf48b1f27aa6b7f84a120f1c706f0a11537440dfc8f79089690e93623aaa"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[PlutoBook]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d7b6c1a040331f5b7309d3d12c81f3da9c60f2f2"
+libc = "glibc"
+os = "linux"
+
+    [[PlutoBook.download]]
+    sha256 = "53aedc41c52f3b4d94afab0f158773cee038f4b60e785e9511ee329ca0d5d6ba"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[PlutoBook]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "09e3209f5ce94021fa54ee7dad50cafba9b593c2"
+libc = "glibc"
+os = "linux"
+
+    [[PlutoBook.download]]
+    sha256 = "e513c7d2915a3a2e19c72006b781301c2ad078f993472c25cf699457d9ddb2d9"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.i686-linux-gnu-cxx03.tar.gz"
+[[PlutoBook]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8b1c256ee362049a6cf03f6fb45df344fcde8812"
+libc = "glibc"
+os = "linux"
+
+    [[PlutoBook.download]]
+    sha256 = "bd39a1328638607395ed260a29a1ca94590c8348aab7db921a79f9e8e9bec2a4"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.i686-linux-gnu-cxx11.tar.gz"
+[[PlutoBook]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9b4ba3aa398cd9492f4ae7a51c9c355c4dee3883"
+os = "windows"
+
+    [[PlutoBook.download]]
+    sha256 = "801a10056b126bf6210d4ae0efb08e567cf3dc8a7c36a55bf5f00e809d74f6a3"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.i686-w64-mingw32-cxx03.tar.gz"
+[[PlutoBook]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b778d8143b6de1510eb39f6456cba3386dc1d7a2"
+os = "windows"
+
+    [[PlutoBook.download]]
+    sha256 = "959786155ec5d18f6aab11cbf2852e8c0cf1b2ecbaa449d99a8601cbd6aa9b40"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.i686-w64-mingw32-cxx11.tar.gz"
+[[PlutoBook]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e543da49289fdd05cb8c7823a4fcd30a532b3094"
+libc = "glibc"
+os = "linux"
+
+    [[PlutoBook.download]]
+    sha256 = "1a5703a90e898ddd8c21c74a6872f25e1f5ff3c369f5db066d9a24bf6b2be615"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[PlutoBook]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f6d6f3a58d8f9415fccf30d3c3b9674035e5193b"
+libc = "glibc"
+os = "linux"
+
+    [[PlutoBook.download]]
+    sha256 = "84073dc49891fd9a59f7606d13897b70a950b851f62b432eb241cc34ff8f6d19"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[PlutoBook]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "11a7c1b2e0223f5be09ae2c38251c742c0cdd5bb"
+libc = "glibc"
+os = "linux"
+
+    [[PlutoBook.download]]
+    sha256 = "1493261c010dfcb70cf13ff9163fc015c6e0b7ea0f7b0737a3bb401fa4e759e6"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.riscv64-linux-gnu-cxx03.tar.gz"
+[[PlutoBook]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fe07b64830c36ee7cb934f82c93c955a3b177ecd"
+libc = "glibc"
+os = "linux"
+
+    [[PlutoBook.download]]
+    sha256 = "d5edaf629db7bf48f2beda904b69f9b93ca51580cfe2582db15f789334fd0fb5"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[PlutoBook]]
+arch = "x86_64"
+git-tree-sha1 = "7dc5d4b1c54e46731b90ab50ffc449b59eae0fab"
+os = "macos"
+
+    [[PlutoBook.download]]
+    sha256 = "1fa9622c5efc85b35af8bc228a8ee2afaca7148ba2a0ee6437071a1a4bb80c87"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.x86_64-apple-darwin.tar.gz"
+[[PlutoBook]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fecb0f8445ac06efee130b724ef0cc046cba18c5"
+libc = "glibc"
+os = "linux"
+
+    [[PlutoBook.download]]
+    sha256 = "30b74bf95ed5e8f08bc4edb4762e5c2b7ff16d8149d18cb9607ce4bff6b5183c"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[PlutoBook]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dbdccf57f382498081eec35e5ae91e82664ac7fc"
+libc = "glibc"
+os = "linux"
+
+    [[PlutoBook.download]]
+    sha256 = "9c017700c344ae63378f81bfaa9ddb605e70e5781f99659e952bb30e049b4226"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[PlutoBook]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "713f12b7a35fe3d32abfa48d7d9615648f04cb87"
+os = "windows"
+
+    [[PlutoBook.download]]
+    sha256 = "fad9334ba99bc31ed9c74824ee23321344b7e90190e4dbc44813de858bc31b75"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[PlutoBook]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bd755a1d3013aea49aef906c0b9e3aedba2d57df"
+os = "windows"
+
+    [[PlutoBook.download]]
+    sha256 = "74415a9f3f820201bedf373c53b31fd7c5ca4cced635913c8ec0cc55f73e751f"
+    url = "https://github.com/JuliaBinaryWrappers/PlutoBook_jll.jl/releases/download/PlutoBook-v0.3.0+0/PlutoBook.v0.3.0.x86_64-w64-mingw32-cxx11.tar.gz"
